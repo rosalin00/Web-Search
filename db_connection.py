@@ -4,7 +4,7 @@
 # SPECIFICATION: This script interacts with a PostgreSQL database using psycopg2, 
 # allowing for the management of document categories, content insertion, 
 # deletion, updating, and term index retrieval.
-# FOR: CS 4250- Assignment #1
+# FOR: CS 4250- Assignment #2
 # TIME SPENT: This took me a few days to complete.
 #-----------------------------------------------------------*/
 
